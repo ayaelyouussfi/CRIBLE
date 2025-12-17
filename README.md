@@ -1,6 +1,6 @@
 # CRIBLE
 CRIBLE
-nt main() {
+int main() {
     int n;
     printf("Entrez un nombre : ");
     scanf("%d", &n);
